@@ -17,6 +17,13 @@ The project is an API whcih allow users to predict the amount of rainfall over a
 - [Acknowledgements](#acknowledgements)
 
 
+## Methodolgy 
+
+The methodolgy of the project is based on the following three (feature, training & Inference) piplines
+
+![Piplines](./images/3_pipelines.gif "piplines")
+
+
 ## 🛠️ Features
 The main features of the API are
 1. Current Weather Data Integration
